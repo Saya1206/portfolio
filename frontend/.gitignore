@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env*.local
+*.env
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Personal Documents and Profile Photo
+*Resume*.pdf
+*.pdf
+Sayali_Patil_Resume_ATS_Template.pdf
+Sayali_Patil_Resume.pdf
+sayali_patil.png
+**/sayali_patil.png
