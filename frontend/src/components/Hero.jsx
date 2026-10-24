@@ -140,7 +140,7 @@ export default function Hero() {
         }}>
           <a
             href={portfolioData.personal.resumeUrl}
-            download="Sayali_Patil_Resume_ATS_Template.pdf"
+            download="Sayali_Patil_Resume.pdf"
             className="shimmer-btn"
             style={{
               background: 'linear-gradient(135deg, #06b6d4, #2563eb)',

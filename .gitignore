@@ -26,11 +26,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Personal Documents and Profile Photo
-*Resume*.pdf
-*.pdf
-Sayali_Patil_Resume_ATS_Template.pdf
-Sayali_Patil_Resume.pdf
-sayali_patil.png
-**/sayali_patil.png
+
 

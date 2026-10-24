@@ -9,7 +9,7 @@ export const portfolioData = {
     location: "Kolhapur, Maharashtra, India",
     github: "https://github.com/Saya1206",
     linkedin: "https://www.linkedin.com/in/sayali-patil-dev",
-    resumeUrl: "/Sayali_Patil_Resume_ATS_Template.pdf",
+    resumeUrl: "/Sayali_Patil_Resume.pdf",
     shortBio:
       "Passionate Full Stack Developer with hands-on experience building responsive web apps and cross-platform mobile apps using React.js, React Native, Node.js, Express.js, and MongoDB. Specialized in role-based systems, REST APIs, and production deployments.",
     fullBio:

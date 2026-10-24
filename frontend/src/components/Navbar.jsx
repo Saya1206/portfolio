@@ -109,7 +109,7 @@ export default function Navbar() {
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
           <a
             href={portfolioData.personal.resumeUrl}
-            download="Sayali_Patil_Resume_ATS_Template.pdf"
+            download="Sayali_Patil_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="shimmer-btn"
@@ -187,7 +187,7 @@ export default function Navbar() {
 
           <a
             href={portfolioData.personal.resumeUrl}
-            download="Sayali_Patil_Resume_ATS_Template.pdf"
+            download="Sayali_Patil_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="shimmer-btn"
